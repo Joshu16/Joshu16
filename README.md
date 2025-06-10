@@ -13,7 +13,7 @@ Soy un **desarrollador de software** con conocimientos en desarrollo **web y de 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshu16&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshu16&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="300"/>
   <img src="https://streak-stats.demolab.com?user=Joshu16&theme=dark&hide_border=true" alt="GitHub Streak" height="300"/>
 </div>
 
