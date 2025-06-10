@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.heart.org/-/media/Images/Health-Topics/Congenital-Heart-Defects/50_1683_44a_ASD.jpg?h=551&w=572&sc_lang=en" width="600" alt="Logo">
+  <img src="https://i.ibb.co/ZzT8K2W1/GitHub.png" width="600" alt="Logo">
 </p>
 
 # Hey! Aquí Joshua 👋
