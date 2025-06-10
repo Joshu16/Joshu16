@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/ZzT8K2W1/GitHub.png" width="600" height="auto" alt="Logo">
+  <img src="https://camo.githubusercontent.com/302be7c389d53cc92420bd12f355b50aede98a147f097624b982843b2b5ed1a9/68747470733a2f2f692e6962622e636f2f5a7a54384b3257312f4769744875622e706e67" width="600" height="auto" alt="Logo">
 </p>
 
 # Hey! Aquí Joshua 👋
