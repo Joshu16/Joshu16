@@ -6,7 +6,7 @@
 
 Soy un **desarrollador de software** con conocimientos en desarrollo **web y de apps**, y también soy **editor de video**, desde [San José, Costa Rica](https://wallpapers.com/images/hd/costa-rica-raging-waterfall-zi4zty7xfepvwzji.jpg).
 
-🔗 **[Visita mi Portfolio](#)** – Ahí encontrarás mis proyectos, currículum y formas de contacto.
+🔗 **[Visita mi Portfolio](https://joshu16.github.io/Portfolio/index.html)** – Ahí encontrarás mis proyectos, currículum y formas de contacto.
 
 ---
 
